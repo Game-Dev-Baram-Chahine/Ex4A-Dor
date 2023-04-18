@@ -1,7 +1,7 @@
 # Unity week 2: Formal elements
 * [Link to 'itch.io'](https://gamedevbc.itch.io/space-game-ex4-dor)
 
-## What i changed:
+## What i changed
 * Endless map (you warp to the other side when you reach the edge)
 * Delay between shooting
 * Extra: When you kill an enemy you get another recharge
